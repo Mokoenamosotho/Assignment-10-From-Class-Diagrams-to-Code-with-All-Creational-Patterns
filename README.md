@@ -1,34 +1,6 @@
 # Assignment-10-From-Class-Diagrams-to-Code-with-All-Creational-Patterns
 
 
-
-/src
-  ├── User.cs
-  ├── Database.cs
-  ├── Backup.cs
-  ├── Recovery.cs
-  ├── AIModel.cs
-  ├── AuditLog.cs
-  └── ComplianceReport.cs
-  
-  ├── creational_patterns/
-│   ├── simple_factory.py
-│   ├── factory_method.py
-│   ├── abstract_factory.py
-│   ├── builder.py
-│   ├── prototype.py
-│   ├── singleton.py
-│   └── README.md
-├── tests/
-│   ├── test_simple_factory.py
-│   ├── test_factory_method.py
-│   ├── test_abstract_factory.py
-│   ├── test_builder.py
-│   ├── test_prototype.py
-│   ├── test_singleton.py
-├── requirements.txt
-└── pytest.ini
-
 readme_content = """
 # 🏥 Hospital Database Management System - C# Implementation
 
