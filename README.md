@@ -1,7 +1,6 @@
 # Assignment-10-From-Class-Diagrams-to-Code-with-All-Creational-Patterns
 
 
-readme_content = """
 # 🏥 Hospital Database Management System - C# Implementation
 
 This project provides a foundational set of C# classes for a hospital database management system with built-in backup, recovery, AI anomaly detection, monitoring, and compliance reporting.
